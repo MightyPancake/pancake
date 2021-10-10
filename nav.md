@@ -1,12 +1,12 @@
 **Main articles**
   - [Home](http://pancake-engine.com/)
   - [Getting Started](/tutorials/Getting_Started)
-  - [Games](http://mightypancake.games/#/games)
-  - [Versions](http://mightypancake.games/#/versions)
+  - [Games](/games)
+  - [Versions](/versions)
 
 
 **Tutorials**
-  - [1. Platformer Tutorial](http://mightypancake.games/#/tutorials/platformer)
+  - [1. Platformer Tutorial](/tutorials/platformer)
 
 
 **Topics**
