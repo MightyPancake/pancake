@@ -1,16 +1,12 @@
-<!-- background image -->
-
 ![logo](logo.png)
 
-# pancake <small>v.2.0</small>
+# pancake <small>v.1.0.0</small>
 
-> Make simple 2D games easier than ever before!
+> Make simple games easier than ever before!
 
-also, joe is fat
-
-* Simple and convenient
-* Imagination is the limit
-* Free to export your games
+* Simple, flexible and expandable!
+* Free and open source!
+* Perfect for beginners!
 
 [Download](https://github.com/MightyPancake/pancake)
 [Getting Started](tutorials/Getting_Started)
