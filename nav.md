@@ -1,6 +1,6 @@
 **Main articles**
-  - [Home](http://mightypancake.games)
-  - [Getting Started](http://mightypancake.games/#/tutorials/Getting_Started)
+  - [Home](http://pancake-engine.com/)
+  - [Getting Started](/tutorials/Getting_Started)
   - [Games](http://mightypancake.games/#/games)
   - [Versions](http://mightypancake.games/#/versions)
 
