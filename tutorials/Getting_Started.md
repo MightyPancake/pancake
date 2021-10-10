@@ -10,8 +10,8 @@ Once you've downloaded the engine just install it. It usually means that you jus
 
 # Downloading pancake
 
-To download the library just click [here](https://github.com/pancake-library/pancake/archive/master.zip)!
+To download the library just click [here](https://github.com/MightyPancake/pancake)!
 
 ## Next steps
 
-Once you are familiar with all of the above, you can **jump** right to the [Platformer Tutorial](http://mightypancake.games/#/tutorials/platformer)!
+Once you are familiar with all of the above, you can **jump** right to the [Platformer Tutorial](/tutorials/platformer)!

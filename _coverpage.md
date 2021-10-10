@@ -1,6 +1,6 @@
 <!-- background image -->
 
-![](logo.png)
+![logo](logo.png)
 
 # pancake <small>v.2.0</small>
 
@@ -10,5 +10,5 @@
 * Imagination is the limit
 * Free to export your games
 
-[Download](https://github.com/pancake-library/pancake/archive/master.zip)
-[Getting Started](http://mightypancake.games/#/tutorials/Getting_Started)
+[Download](https://github.com/MightyPancake/pancake)
+[Getting Started](tutorials/Getting_Started)
