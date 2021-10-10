@@ -11,3 +11,11 @@
 
 [Download](https://github.com/pancake-library/pancake/archive/master.zip)
 [Getting Started](http://mightypancake.games/#/tutorials/Getting_Started)
+
+<!-- background image -->
+
+![](/_cover_background.png)
+
+<!-- background color -->
+
+![color](#f0f0f0)
