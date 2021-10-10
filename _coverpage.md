@@ -4,6 +4,7 @@
 
 > Make simple 2D games easier than ever before!
 
+![](_cover_background.png)
 * Simple and convenient
 * Imagination is the limit
 * Free to export your games
