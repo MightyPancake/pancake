@@ -13,12 +13,12 @@ Often both types of articles have links to topics/functions that are from the sa
 
 ## Topics
 
-* [Settings](http://mightypancake.games/#/documentation/topics/settings)
+* [Settings](/documentation/topics/settings)
 
-* [Pancake Attributes](http://mightypancake.games/#/documentation/topics/pancake_attributes)
+* [Pancake Attributes](/documentation/topics/pancake_attributes)
 
-* [Objects](http://mightypancake.games/documentation/#/topics/objects)
+* [Objects](/topics/objects)
 
-* [Layers](http://mightypancake.games/documentation/#/topics/layers)
+* [Layers](/topics/layers)
 
-* [Animations](http://mightypancake.games/documentation/#/topics/animations)
+* [Animations](/topics/animations)

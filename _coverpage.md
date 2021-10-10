@@ -6,6 +6,8 @@
 
 > Make simple 2D games easier than ever before!
 
+also, joe is fat
+
 * Simple and convenient
 * Imagination is the limit
 * Free to export your games
