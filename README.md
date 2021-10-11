@@ -12,4 +12,4 @@ More experienced users might find it easier to code in Go which is also entirely
 
 Pancake is a game engine built almost entirely in [Go](https://golang.org/), a programming language made by Google, which is one of the most promising languages. It uses [SDL](https://www.libsdl.org/) to make the games run on many different platforms and [OpenGL](https://www.opengl.org/), a commonly used, powerful library for GPU accelerated graphics.
 
-It was **heavily inspired by [LÖVE](https://love2d.org/)**, because I
+It was **heavily inspired by [LÖVE](https://love2d.org/)**, because 
