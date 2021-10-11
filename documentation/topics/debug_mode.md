@@ -14,4 +14,4 @@ pancake.debugMode = true
 
 ## What it does?
 
-You can freely see parameters of an object by pointing it with your mouse. You also see [object's](http://mightypancake.games/#/documentation/topics/objects) hitboxes with it and visual representation of acceleration and velocity! Sky's the limit!
+You can freely see parameters of an object by pointing it with your mouse. You also see [object's](/documentation/topics/objects) hitboxes with it and visual representation of acceleration and velocity! Sky's the limit!

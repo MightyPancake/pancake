@@ -29,4 +29,4 @@ end
 
 This example will display number of frames per second in the left upper corner of the display!
 
-!> **NOTE:** This is the real display, not [pancake canvas](http://mightypancake.games/#/documentation/topics/pancake_canvas)!
+!> **NOTE:** This is the real display, not [pancake canvas](/documentation/topics/pancake_canvas)!

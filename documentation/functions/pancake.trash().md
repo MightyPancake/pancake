@@ -2,7 +2,7 @@
 
 ## Description
 
-This function finds an object in a table using [pancake.find()](http://mightypancake.games/#/documentation/functions/pancake.find()) and then deletes it **after updating data**!
+This function finds an object in a table using [pancake.find()](/documentation/functions/pancake.find()) and then deletes it **after updating data**!
 
 ?> **TIP:** This function is used to delete things after the update, when doing so manually would cause potential problems.
 

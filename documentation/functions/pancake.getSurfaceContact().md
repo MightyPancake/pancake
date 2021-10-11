@@ -2,14 +2,14 @@
 
 ## Description
 
-This function returns how many pixels of each side of [object](http://mightypancake.games/#/documentation/topics/objects) are touching something collidable.
+This function returns how many pixels of each side of [object](/documentation/topics/objects) are touching something collidable.
 
 ## Inputs
 
-- [`object`](http://mightypancake.games/#/documentation/topics/objects) <- Which [object](http://mightypancake.games/#/documentation/topics/objects) should be inspected.
+- [`object`](/documentation/topics/objects) <- Which [object](/documentation/topics/objects) should be inspected.
 
 ## Outputs
-- `directions` <- Table containg surface contact for each side of the [object](http://mightypancake.games/#/documentation/topics/objects).
+- `directions` <- Table containg surface contact for each side of the [object](/documentation/topics/objects).
   * `left` <- Surface contact for left edge. This is the number of pancake pixels!
   * `right` <- Surface contact for right edge. This is the number of pancake pixels!
   * `up` <- Surface contact for up edge. This is the number of pancake pixels!

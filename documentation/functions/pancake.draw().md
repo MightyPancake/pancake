@@ -2,7 +2,7 @@
 
 ## Description
 
-Draws the [pancake screen canvas](http://mightypancake.games/#/documentation/topics/pancake_canvas) to the display.
+Draws the [pancake screen canvas](/documentation/topics/pancake_canvas) to the display.
 
 ## Inputs
 

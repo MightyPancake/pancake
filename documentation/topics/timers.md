@@ -16,7 +16,7 @@ Every timer is a table that consists of these attributes:
 
 ## How to create a timer?
 
-You create a timer by simply using [`pancake.addTimer()`](http://mightypancake.games/#/documentation/functions/pancake.addTimer()):
+You create a timer by simply using [`pancake.addTimer()`](/documentation/functions/pancake.addTimer()):
 
 ```lua
 pancake.addTimer(1200, "repetetive", doThing)
@@ -24,4 +24,4 @@ pancake.addTimer(1200, "repetetive", doThing)
 
 This timer will call `doThing` without any arguments every 1.2 seconds!
 
-For more info, head to [this article](http://mightypancake.games/#/documentation/functions/pancake.addTimer())!
+For more info, head to [this article](/documentation/functions/pancake.addTimer())!

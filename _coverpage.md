@@ -1,12 +1,8 @@
 ![logo](logo.png)
 
-# pancake <small>v.1.0.0</small>
+# Pancake
 
-> Make simple games easier than ever before!
-
-* Simple, flexible and expandable!
-* Free and open source!
-* Perfect for beginners!
+> Make games easier than ever before!
 
 [Download](https://github.com/MightyPancake/pancake)
 [Getting Started](tutorials/Getting_Started)

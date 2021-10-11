@@ -21,4 +21,4 @@ This function gets string name of direction by combining axis (x or y) and binar
 pancake.draw("Player is moving " .. pancake.getDirectionName("x", pancake.getStat(player, "directionX")) .. " and " .. pancake.getDirectionName("y", pancake.getStat(player, "directionY")))
 ```
 
-The example above will show all directions that `player` [object](http://mightypancake.games/#/documentation/topics/objects) is moving towards.
+The example above will show all directions that `player` [object](/documentation/topics/objects) is moving towards.

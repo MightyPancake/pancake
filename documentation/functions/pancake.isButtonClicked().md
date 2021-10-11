@@ -2,15 +2,15 @@
 
 ## Description
 
-Checks whether the given [button](http://mightypancake.games/#/documentation/topics/buttons) is clicked.
+Checks whether the given [button](/documentation/topics/buttons) is clicked.
 
 ## Inputs
 
-- [`button`](http://mightypancake.games/#/documentation/topics/buttons) <- Table containg all data for [button](http://mightypancake.games/#/documentation/topics/objects).
+- [`button`](/documentation/topics/buttons) <- Table containg all data for [button](/documentation/topics/objects).
 
 ## Outputs
 
-- `isClicked` <- Boolean that is `true` when [button](http://mightypancake.games/#/documentation/topics/buttons) is pressed. Otherwise, it's `false`.
+- `isClicked` <- Boolean that is `true` when [button](/documentation/topics/buttons) is pressed. Otherwise, it's `false`.
 
 ## Example
 
@@ -20,4 +20,4 @@ if pancake.isButtonClicked(right_button) then
 end
 ```
 
-The example will execute `move()` only when `righ_button` [button](http://mightypancake.games/#/documentation/topics/buttons) is clicked.
+The example will execute `move()` only when `righ_button` [button](/documentation/topics/buttons) is clicked.

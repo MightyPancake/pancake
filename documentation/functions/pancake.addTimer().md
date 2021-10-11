@@ -2,18 +2,18 @@
 
 ## Description
 
-This function adds a [timer](http://mightypancake.games/#/documentation/topics/timer) to `pancake.timers`!
+This function adds a [timer](/documentation/topics/timer) to `pancake.timers`!
 
 ## Inputs
 
-- `time` <- Time attribute for this [timer](http://mightypancake.games/#/documentation/topics/timer).
+- `time` <- Time attribute for this [timer](/documentation/topics/timer).
 - `mode` <- This controls whether it should run once or be a loop: **"single"** or **"repetetive"**!
 - `func` <- This is the function that will run when `time` hits 0.
-- `arguments` <- These are the arguments that will be used to this function when called by this [timer](http://mightypancake.games/#/documentation/topics/timer).
+- `arguments` <- These are the arguments that will be used to this function when called by this [timer](/documentation/topics/timer).
 
 ## Outputs
 
-- [`timer`](http://mightypancake.games/#/documentation/topics/timer) <- A pancake [timer](http://mightypancake.games/#/documentation/topics/timer)!
+- [`timer`](/documentation/topics/timer) <- A pancake [timer](/documentation/topics/timer)!
 
 ## Example
 
@@ -28,4 +28,4 @@ function delete(object)
 end
 ```
 
-The example above will add a bullet [object](http://mightypancake.games/#/documentation/topics/objects) and then delete it after 2.3 seconds using a [timer](http://mightypancake.games/#/documentation/topics/timer). Keep in mind, gravity will still work on this bullet. To defy it, read [this article](http://mightypancake.games/#/documentation/topics/forces)!
+The example above will add a bullet [object](/documentation/topics/objects) and then delete it after 2.3 seconds using a [timer](/documentation/topics/timer). Keep in mind, gravity will still work on this bullet. To defy it, read [this article](/documentation/topics/forces)!

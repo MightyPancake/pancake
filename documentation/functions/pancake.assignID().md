@@ -4,7 +4,7 @@
 
 Assign parameter named "ID" to the given table.
 
-?> **TIP:** Every pancake [object](http://mightypancake.games/#/documentation/topics/objects), [force](http://mightypancake.games/#/documentation/topics/forces) and [timer](http://mightypancake.games/#/documentation/topics/timer) will have it's own ID uppon creation!
+?> **TIP:** Every pancake [object](/documentation/topics/objects), [force](/documentation/topics/forces) and [timer](/documentation/topics/timer) will have it's own ID uppon creation!
 
 !> **NOTE:** This parameteris unique. This means that no matter how many times you will create one, there are no two tables that have two same ID's.
 

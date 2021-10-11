@@ -24,4 +24,4 @@ pancake.addImage("rock", "images")
 rock_object.image = "rock"
 ```
 
-The example above will add an image named "rock" from "images/rock.png". Then, it changes the image attribute of `rock_object` [object](http://mightypancake.games/#/documentation/topics/objects) to "rock", which reffers to the image.
+The example above will add an image named "rock" from "images/rock.png". Then, it changes the image attribute of `rock_object` [object](/documentation/topics/objects) to "rock", which reffers to the image.

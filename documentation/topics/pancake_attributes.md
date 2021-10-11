@@ -14,31 +14,31 @@ Most attributes fall to categories which are listed below.
 
 Collections contain all pancake made things such as:
 
-* [`buttons`](http://mightypancake.games/#/documentation/topics/buttons)
+* [`buttons`](/documentation/topics/buttons)
 
-* [`objects`](http://mightypancake.games/#/documentation/topics/objects)
+* [`objects`](/documentation/topics/objects)
 
-* [`timers`](http://mightypancake.games/#/documentation/topics/timers)
+* [`timers`](/documentation/topics/timers)
 
-* [`images`](http://mightypancake.games/#/documentation/topics/images)
+* [`images`](/documentation/topics/images)
 
-* [`sounds`](http://mightypancake.games/#/documentation/topics/sounds)
+* [`sounds`](/documentation/topics/sounds)
 
 **NOTE:**
 
-Timers and [objects](http://mightypancake.games/#/documentation/topics/objects) items of a collection have their unique ID parameters.
+Timers and [objects](/documentation/topics/objects) items of a collection have their unique ID parameters.
 
 ## Settings
 
-Settings are what define how pancake behaves. You can read more about them [here](http://mightypancake.games/#/documentation/topics/settings).
+Settings are what define how pancake behaves. You can read more about them [here](/documentation/topics/settings).
 
 ## Other
 
-* [`cameraFollow`](http://mightypancake.games/#/documentation/topics/camera_follow) <- Defines which [object](http://mightypancake.games/#/documentation/topics/objects) camera should follow.
+* [`cameraFollow`](/documentation/topics/camera_follow) <- Defines which [object](/documentation/topics/objects) camera should follow.
 
 * `lastdt` <- Time (in seconds) between last two frames. Usually a small number.
 
-* `target` <- Indicates [object](http://mightypancake.games/#/documentation/topics/objects) that should be inspected when `debugMode` is `true`.
+* `target` <- Indicates [object](/documentation/topics/objects) that should be inspected when `debugMode` is `true`.
 
 ## Use
 

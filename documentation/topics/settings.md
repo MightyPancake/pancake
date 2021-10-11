@@ -14,7 +14,7 @@ They are a set of parameters that define how pancake should behave. This article
 
 * `autoDraw` (true) <- Defines whether pancake should draw display automatically or if the user wants to do it themselve. You can always draw pancake.canvas!
 
-* `layerDepth` (0.75) <- Defines layer depth for the game. You can read more on that [here](http://mightypancake.games/#/documentation/topics/layers).
+* `layerDepth` (0.75) <- Defines layer depth for the game. You can read more on that [here](/documentation/topics/layers).
 
 * `meter` (10) <- Defines how many pancake pixels is equal to a meter.
 
@@ -24,7 +24,7 @@ They are a set of parameters that define how pancake should behave. This article
 
 ## Window settings
 
-The window parameter is a table containing information on how to display things. You can read about them [here](http://mightypancake.games/#/documentation/topics/pancake_canvas?id=attributes)!
+The window parameter is a table containing information on how to display things. You can read about them [here](/documentation/topics/pancake_canvas?id=attributes)!
 ## Physics settings
 
 Physics parameters determine how physic in your game will work.
@@ -33,4 +33,4 @@ Physics parameters determine how physic in your game will work.
 
 * `gravityY` (10×pancake.meter) <- Defines gravity's `y` parameter.
 
-!> **NOTE:** Changing gravity affects only objects added *after* this action. If you want to globally change gravity for all [objects](http://mightypancake.games/#/documentation/topics/objects), you can do it through a loop, accessing `object.forces[1][axis]`!
+!> **NOTE:** Changing gravity affects only objects added *after* this action. If you want to globally change gravity for all [objects](/documentation/topics/objects), you can do it through a loop, accessing `object.forces[1][axis]`!

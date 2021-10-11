@@ -2,15 +2,15 @@
 
 ## Description
 
-This function adds a clickable [button](http://mightypancake.games/#/documentation/topics/buttons) to the `pancake.buttons` table.
+This function adds a clickable [button](/documentation/topics/buttons) to the `pancake.buttons` table.
 
 ## Inputs
 
-- [`button_data`](http://mightypancake.games/#/documentation/topics/buttons) <- Table containg all data for [button](http://mightypancake.games/#/documentation/topics/objects).
+- [`button_data`](/documentation/topics/buttons) <- Table containg all data for [button](/documentation/topics/objects).
 
 ## Outputs
 
-- [`button`](http://mightypancake.games/#/documentation/topics/buttons) <- A clickable button!
+- [`button`](/documentation/topics/buttons) <- A clickable button!
 
 ## Example
 

@@ -4,7 +4,7 @@
 
 Function that adds searches for any asset in the game's main directory and adds it to pancake!
 
-!> **NOTE:** Pancake will only take `.wav` files for [sounds](http://mightypancake.games/#/documentation/topics/sounds) and `.png` files for images!
+!> **NOTE:** Pancake will only take `.wav` files for [sounds](/documentation/topics/sounds) and `.png` files for images!
 
 !> **NOTE:** This function is not capable of adding animations! If there are any in desired folder, they'll be treated as just images not related to anything!
 

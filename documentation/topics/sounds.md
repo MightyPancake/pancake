@@ -8,36 +8,36 @@ It's a sound that can be added, played or muted with ease!
 
 ## How to add a sound?
 
-You create a sound using [`pancake.addSound()`](http://mightypancake.games/#/documentation/functions/pancake.addSound()):
+You create a sound using [`pancake.addSound()`](/documentation/functions/pancake.addSound()):
 
 ```lua
 pancake.addSound("clap", "sounds")
 ```
 
-For more information read [this article](http://mightypancake.games/#/documentation/functions/pancake.addSound())!
+For more information read [this article](/documentation/functions/pancake.addSound())!
 
 ## How to play sounds?
 
-You play previously added sounds using [`pancake.playSound()`](http://mightypancake.games/#/documentation/functions/pancake.playSound()):
+You play previously added sounds using [`pancake.playSound()`](/documentation/functions/pancake.playSound()):
 
  ```lua
 pancake.playSound("clap")
 ```
 
-For more information read [this article](http://mightypancake.games/#/documentation/functions/pancake.playSound())!
+For more information read [this article](/documentation/functions/pancake.playSound())!
 
 ## How to mute sounds?
 
-To mute all sounds added to pancake use [`pancake.muteSounds()`](http://mightypancake.games/#/documentation/functions/pancake.muteSounds())
+To mute all sounds added to pancake use [`pancake.muteSounds()`](/documentation/functions/pancake.muteSounds())
 
 ```lua
 pancake.muteSounds(true)
 ```
-For more information read [this article](http://mightypancake.games/#/documentation/functions/pancake.muteSounds())!
+For more information read [this article](/documentation/functions/pancake.muteSounds())!
 
 ## What sound includes and how to find them?
 
-All [sounds](http://mightypancake.games/#/documentation/topics/sounds) added that way are stored in `pancake.sounds[sound_name]`, where `sound_name` is the name that was called when adding it, thus, filename **without** `.wav` extension.
+All [sounds](/documentation/topics/sounds) added that way are stored in `pancake.sounds[sound_name]`, where `sound_name` is the name that was called when adding it, thus, filename **without** `.wav` extension.
 
 Every sound is a table containing:
 - `name` <- Name of the sound.

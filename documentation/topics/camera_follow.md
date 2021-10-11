@@ -2,7 +2,7 @@
 
 ## What is pancake.cameraFollow?
 
-Camera follow is a [pancake attribute](http://mightypancake.games/#/documentation/topics/pancake_attributes) that specifies which object the camera should follow! If set to `nil`, the camera won't update it's position.
+Camera follow is a [pancake attribute](/documentation/topics/pancake_attributes) that specifies which object the camera should follow! If set to `nil`, the camera won't update it's position.
 
 ## Example
 
