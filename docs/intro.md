@@ -4,8 +4,7 @@
 ## Dual nature
 
 Pancake consists of two seperate parts that work together:
-
-### Pancake.go engine
+#### Pancake.go engine
 It is the main part of the engine responsible for outputing image, sound etc. and taking in stuff like keybaord and mouse presses.
 
 It's written in Go and you can use it by just importing it to your Go project like so:
@@ -13,7 +12,7 @@ It's written in Go and you can use it by just importing it to your Go project li
 go get github.com/MightyPancake/pancake
 ```
 
-### pancake.lua library
+#### pancake.lua library
 
 This is essentially all of pancake's logic outside of inputing/outputing. It uses the engine and it won't run without it, **however it is possible to use it in [LÖVE 2D](https://love2d.org/) framework,** and you can learn more about it [here](/documentation/topics/settings)!
 
