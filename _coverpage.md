@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](logo_small.png)
 
 # Pancake
 
