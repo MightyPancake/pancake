@@ -1,8 +1,8 @@
 
 **Main**
-  - [About](/about)
   - [Games](/games)
   - [Versions](/versions)
+  - [About](/about)
 
 
 **Tutorials**

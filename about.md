@@ -8,4 +8,4 @@ It was **heavily inspired by [LÖVE](https://love2d.org/)**, a really awesome fr
 
 # Support
 
-If you want to help this me with this project you can either drop me some coins or just, as mentioned above, expand the pancake and propose a new addition or improvement to pancake on [GitHub](https://github.com/MightyPancake/pancake)!
+If you want to help me this on this project you can either drop me some coins or just expand the pancake and propose a new addition or improvement to pancake on [GitHub](https://github.com/MightyPancake/pancake)!
