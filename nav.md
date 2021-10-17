@@ -6,7 +6,7 @@
 
 
 **Tutorials**
-  - [Getting Started](/tutorials/Getting_Started)
+  - [Installation](/tutorials/install)
   - [1. Platformer Tutorial](/tutorials/platformer)
 
 
