@@ -1,6 +1,4 @@
-# Getting started
-
-## Installation
+# Installation
 
 ### Windows
 
@@ -22,5 +20,4 @@ Then, you'll have to **pick the path** where the engine is going to be located. 
 
 And voila! You're all set!
 
-
-## 
+It is also 
