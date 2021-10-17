@@ -4,6 +4,6 @@
 
 > Make games easier than ever before!
 
-[Install](https://github.com/MightyPancake/pancake)
+[Install](/tutorials/install)
 [Support](https://github.com/MightyPancake/pancake)
 [About](/about)
