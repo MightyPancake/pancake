@@ -21,8 +21,12 @@ Nothing.
 
 ## Example
 
-```lua
-pancake.drawRectangle(0,0,200, 100)
+```Lua
+function pancake.event.draw()--Here you draw stuff
+  pancake.setColor(0, 255, 0, 255) -- This sets the drawing color to green
+  pancake.drawRectangle(pancake.windowWidth()/2 - 200, pancake.windowHeight()/2 - 200, 400, 400) --Draws a centered square
+end
 ```
+![Screenshot](../../images/drawRectangle1.png)
 
-Draws a 200 x 100 pixels rectangle.
+The code above will draw a green, 200 pixels wide square at the center of the screen.
