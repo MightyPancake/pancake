@@ -38,7 +38,7 @@ An event callback is a special type of function that runs whenever something hap
 ### Drawing
   - [pancake.drawImage()](/documentation/functions/pancake.drawImage())
   - [pancake.drawRectangle()](/documentation/functions/pancake.drawRectangle())
-  - pancake.drawCircle() **NOT YET DOCUMENTED**
+  - [pancake.drawCircle()](/documentation/functions/pancake.drawCircle())
   - [pancake.print()](/documentation/functions/pancake.print()) **OUTDATED**
 
 ### Images
